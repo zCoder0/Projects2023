@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: Sentiment_Analysis_Tamil_Movies
+Version: 1.0.0
+Author: Prem Raj
+Author-email: rajp37590@gmail.com
+Requires-Dist: pandas
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: emoji
+Requires-Dist: langdetect
+Requires-Dist: nest_asyncio
+Requires-Dist: twikit
+Requires-Dist: ipykernel
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

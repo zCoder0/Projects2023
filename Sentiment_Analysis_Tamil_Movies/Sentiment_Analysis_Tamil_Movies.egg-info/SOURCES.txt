@@ -1,0 +1,17 @@
+setup.py
+Sentiment_Analysis_Tamil_Movies.egg-info/PKG-INFO
+Sentiment_Analysis_Tamil_Movies.egg-info/SOURCES.txt
+Sentiment_Analysis_Tamil_Movies.egg-info/dependency_links.txt
+Sentiment_Analysis_Tamil_Movies.egg-info/requires.txt
+Sentiment_Analysis_Tamil_Movies.egg-info/top_level.txt
+src/__init__.py
+src/components/__init__.py
+src/components/data_integtion.py
+src/components/data_preprocessing.py
+src/components/model.py
+src/dataset/__init__.py
+src/exception/__init__.py
+src/exception/exception_base.py
+src/logs/__init__.py
+src/logs/log_config.py
+src/models/__init__.py

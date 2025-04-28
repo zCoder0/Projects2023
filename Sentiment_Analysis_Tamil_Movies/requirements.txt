@@ -1,0 +1,11 @@
+pandas
+streamlit 
+numpy 
+transformers
+torch
+emoji
+langdetect
+nest_asyncio
+twikit
+ipykernel
+-e .
