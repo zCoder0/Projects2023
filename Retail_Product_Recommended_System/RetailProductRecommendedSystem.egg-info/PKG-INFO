@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: RetailProductRecommendedSystem
+Version: 1.0
+Author: Prem Raj
+Author-email: rajp37590@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: openpyxl
+Requires-Dist: ipykernel
+Requires-Dist: pickle4
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

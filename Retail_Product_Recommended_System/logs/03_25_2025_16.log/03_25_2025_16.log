@@ -1,0 +1,24 @@
+[ 2025-03-25 16:31:08,053 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 6 error messgae [Errno 2] No such file or directory: 'OnlineRetail.xlsx'
+[ 2025-03-25 16:32:10,763 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 6 error messgae [WinError 3] The system cannot find the path specified: 'dataset'
+[ 2025-03-25 16:33:09,755 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 6 error messgae [Errno 2] No such file or directory: 'dataset/OnlineRetail.xlsx'
+[ 2025-03-25 16:33:19,048 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 6 error messgae [Errno 2] No such file or directory: 'dataset/OnlineRetail.xlsx'
+[ 2025-03-25 16:33:25,050 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 6 error messgae [WinError 3] The system cannot find the path specified: 'components\\dataset'
+[ 2025-03-25 16:33:46,485 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 6 error messgae Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[ 2025-03-25 16:58:51,241 ] 999 root - INFO - running egg_info
+[ 2025-03-25 16:58:51,257 ] 58 root - INFO - creating C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info
+[ 2025-03-25 16:58:51,257 ] 651 root - INFO - writing C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 16:58:51,258 ] 279 root - INFO - writing dependency_links to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 16:58:51,259 ] 279 root - INFO - writing requirements to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 16:58:51,260 ] 279 root - INFO - writing top-level names to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 16:58:51,262 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 16:58:51,294 ] 203 root - INFO - reading manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 16:58:51,296 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-6j6zzjew\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 16:59:23,904 ] 999 root - INFO - running egg_info
+[ 2025-03-25 16:59:23,913 ] 58 root - INFO - creating C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info
+[ 2025-03-25 16:59:23,913 ] 651 root - INFO - writing C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 16:59:23,915 ] 279 root - INFO - writing dependency_links to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 16:59:23,915 ] 279 root - INFO - writing requirements to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 16:59:23,916 ] 279 root - INFO - writing top-level names to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 16:59:23,916 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 16:59:23,945 ] 203 root - INFO - reading manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 16:59:23,948 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-kt1wat8u\RetailProductRecommendedSystem.egg-info\SOURCES.txt'

@@ -1,0 +1,8 @@
+numpy
+pandas 
+scikit-learn
+openpyxl
+ipykernel
+pickle4
+scikit-surprise
+-e .

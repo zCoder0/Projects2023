@@ -1,0 +1,74 @@
+[ 2025-03-25 17:00:03,174 ] 999 root - INFO - running egg_info
+[ 2025-03-25 17:00:03,182 ] 58 root - INFO - creating C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info
+[ 2025-03-25 17:00:03,182 ] 651 root - INFO - writing C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 17:00:03,183 ] 279 root - INFO - writing dependency_links to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 17:00:03,184 ] 279 root - INFO - writing requirements to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 17:00:03,184 ] 279 root - INFO - writing top-level names to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 17:00:03,185 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:03,214 ] 203 root - INFO - reading manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:03,216 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-qb3eoh6x\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:17,006 ] 999 root - INFO - running egg_info
+[ 2025-03-25 17:00:17,015 ] 58 root - INFO - creating C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info
+[ 2025-03-25 17:00:17,015 ] 651 root - INFO - writing C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 17:00:17,016 ] 279 root - INFO - writing dependency_links to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 17:00:17,016 ] 279 root - INFO - writing requirements to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 17:00:17,017 ] 279 root - INFO - writing top-level names to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 17:00:17,017 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:17,046 ] 203 root - INFO - reading manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:17,048 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-mr5ktswy\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:18,360 ] 999 root - INFO - running develop
+[ 2025-03-25 17:00:18,492 ] 999 root - INFO - running egg_info
+[ 2025-03-25 17:00:18,501 ] 58 root - INFO - creating RetailProductRecommendedSystem.egg-info
+[ 2025-03-25 17:00:18,502 ] 651 root - INFO - writing RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 17:00:18,503 ] 279 root - INFO - writing dependency_links to RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 17:00:18,504 ] 279 root - INFO - writing requirements to RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 17:00:18,517 ] 279 root - INFO - writing top-level names to RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 17:00:18,518 ] 316 root - INFO - writing manifest file 'RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:18,539 ] 203 root - INFO - reading manifest file 'RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:18,541 ] 316 root - INFO - writing manifest file 'RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:18,562 ] 999 root - INFO - running build_ext
+[ 2025-03-25 17:00:18,563 ] 121 root - INFO - Creating g:\ai models\recommandationsystem\venv\lib\site-packages\RetailProductRecommendedSystem.egg-link (link to .)
+[ 2025-03-25 17:00:18,563 ] 1262 root - INFO - RetailProductRecommendedSystem 1.0 is already the active version in easy-install.pth
+[ 2025-03-25 17:00:18,565 ] 771 root - INFO - 
+Installed g:\ai models\recommandationsystem
+[ 2025-03-25 17:00:57,970 ] 999 root - INFO - running egg_info
+[ 2025-03-25 17:00:57,979 ] 58 root - INFO - creating C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info
+[ 2025-03-25 17:00:57,979 ] 651 root - INFO - writing C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 17:00:57,980 ] 279 root - INFO - writing dependency_links to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 17:00:57,981 ] 279 root - INFO - writing requirements to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 17:00:57,981 ] 279 root - INFO - writing top-level names to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 17:00:57,982 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:58,011 ] 203 root - INFO - reading manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:00:58,013 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-ee_rcj4x\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:01:08,955 ] 999 root - INFO - running egg_info
+[ 2025-03-25 17:01:08,969 ] 58 root - INFO - creating C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info
+[ 2025-03-25 17:01:08,969 ] 651 root - INFO - writing C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 17:01:08,971 ] 279 root - INFO - writing dependency_links to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 17:01:08,971 ] 279 root - INFO - writing requirements to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 17:01:08,972 ] 279 root - INFO - writing top-level names to C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 17:01:08,972 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:01:09,057 ] 203 root - INFO - reading manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:01:09,060 ] 316 root - INFO - writing manifest file 'C:\Users\hp\AppData\Local\Temp\pip-pip-egg-info-pmpzmrrw\RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:01:19,500 ] 999 root - INFO - running develop
+[ 2025-03-25 17:01:19,635 ] 999 root - INFO - running egg_info
+[ 2025-03-25 17:01:19,645 ] 651 root - INFO - writing RetailProductRecommendedSystem.egg-info\PKG-INFO
+[ 2025-03-25 17:01:19,691 ] 279 root - INFO - writing dependency_links to RetailProductRecommendedSystem.egg-info\dependency_links.txt
+[ 2025-03-25 17:01:19,692 ] 279 root - INFO - writing requirements to RetailProductRecommendedSystem.egg-info\requires.txt
+[ 2025-03-25 17:01:19,693 ] 279 root - INFO - writing top-level names to RetailProductRecommendedSystem.egg-info\top_level.txt
+[ 2025-03-25 17:01:19,729 ] 203 root - INFO - reading manifest file 'RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:01:19,732 ] 316 root - INFO - writing manifest file 'RetailProductRecommendedSystem.egg-info\SOURCES.txt'
+[ 2025-03-25 17:01:19,744 ] 999 root - INFO - running build_ext
+[ 2025-03-25 17:01:19,744 ] 121 root - INFO - Creating g:\ai models\recommandationsystem\venv\lib\site-packages\RetailProductRecommendedSystem.egg-link (link to .)
+[ 2025-03-25 17:01:19,745 ] 1267 root - INFO - Adding RetailProductRecommendedSystem 1.0 to easy-install.pth file
+[ 2025-03-25 17:01:19,747 ] 771 root - INFO - 
+Installed g:\ai models\recommandationsystem
+[ 2025-03-25 17:21:55,856 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 18 error messgae No module named 'surprise'
+[ 2025-03-25 17:22:11,915 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 42 error messgae 'NoneType' object has no attribute 'predict'
+[ 2025-03-25 17:23:42,981 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 18 error messgae No module named 'surprise'
+[ 2025-03-25 17:23:48,512 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 43 error messgae 'NoneType' object has no attribute 'predict'
+[ 2025-03-25 17:24:17,732 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 18 error messgae No module named 'surprise'
+[ 2025-03-25 17:24:23,049 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 43 error messgae 'NoneType' object has no attribute 'predict'
+[ 2025-03-25 17:26:08,705 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 18 error messgae No module named 'surprise'
+[ 2025-03-25 17:26:13,600 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 44 error messgae 'NoneType' object has no attribute 'predict'
+[ 2025-03-25 17:32:30,214 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 18 error messgae No module named 'surprise'
+[ 2025-03-25 17:32:38,767 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\RecommandationSystem\main.py on line number 43 error messgae 'NoneType' object has no attribute 'predict'
