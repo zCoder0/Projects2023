@@ -1,0 +1,10 @@
+requests
+datetime
+scikit-learn
+tensorflow
+keras
+python-dotenv
+pandas
+streamlit
+matplotlib
+seaborn
