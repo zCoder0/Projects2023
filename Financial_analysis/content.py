@@ -1,0 +1,2 @@
+GROQ_API_Key = "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"
+PHI_API_Key ="ag-hDKqhde-vjWEdN0AoO-v1cwGpjQ3bohKdM0IuSGog00"
