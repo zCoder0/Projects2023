@@ -1,0 +1,11 @@
+numpy 
+keras
+keras_facenet
+scikit_learn
+pandas
+opencv-python
+mtcnn
+tensorflow
+streamlit
+pillow
+-e .

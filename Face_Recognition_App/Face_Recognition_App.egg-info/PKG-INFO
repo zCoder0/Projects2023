@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: Face-Recognition-App
+Version: 1.0
+Author: Prem Raj
+Author-email: rajp37590@gmail.com
+Requires-Dist: numpy
+Requires-Dist: keras
+Requires-Dist: keras_facenet
+Requires-Dist: scikit_learn
+Requires-Dist: pandas
+Requires-Dist: opencv-python
+Requires-Dist: mtcnn
+Requires-Dist: tensorflow
+Requires-Dist: streamlit
+Requires-Dist: pillow
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
