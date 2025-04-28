@@ -1,0 +1,76 @@
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:17:36.293848
+
+You: hello
+Nova: Hello! How can I help you today?  time 2024-09-25 20:17:40.436773
+
+You: i now
+Nova: I can sense that you're trying to unsubscribe from our company newsletter. I apologize for any inconvenience this may have caused. To assist you further, please provide me with the email address you used to subscribe to the newsletter. Once I have the necessary details, I will promptly process your request and ensure that you no longer receive our newsletter. Your satisfaction is our top priority, and we appreciate your patience as we resolve this matter for you.  time 2024-09-25 20:18:04.981471
+
+You: track
+Nova: I've understood you have a question regarding canceling order {{Order Number}}, and I'm here to provide you with the information you need. Please go ahead and ask your question, and I'll do my best to assist you.  time 2024-09-25 20:18:29.437422
+
+You: hii
+Nova: Hi! How can I help you today?  time 2024-09-25 20:19:53.507967
+
+You: hii
+Nova: Hi! How can I help you today?  time 2024-09-25 20:19:58.510837
+You: helooo
+Nova: I can sense that you're trying to unsubscribe from our company newsletter. I apologize for any inconvenience this may have caused. To assist you further, please provide me with the email address you used to subscribe to the newsletter. Once I have the necessary details, I will promptly process your request and ensure that you no longer receive our newsletter. Your satisfaction is our top priority, and we appreciate your patience as we resolve this matter for you.  time 2024-09-25 20:19:58.510837
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:21:01.464940
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:21:16.471714
+You: i want track my order
+Nova: I've understood you have a question regarding canceling order {{Order Number}}, and I'm here to provide you with the information you need. Please go ahead and ask your question, and I'll do my best to assist you.  time 2024-09-25 20:21:16.471714
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:22:09.553109
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:22:19.248904
+You: hello
+Nova: Hello! How can I help you today?  time 2024-09-25 20:22:19.248904
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:22:47.009930
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:22:51.953245
+You: hello
+Nova: Hello! How can I help you today?  time 2024-09-25 20:22:51.953245
+
+You: hello
+Nova: Hello! How can I help you today?  time 2024-09-25 20:23:26.538232
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:29:33.398815
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:29:41.742441
+You: whats the time
+Nova: Happy to hear from you! I truly understand that you would like assistance in speaking to our customer support team. Our team is readily available to help address your concerns and provide the necessary support. To connect with a representative, you can reach out to them during our customer support hours at {{Customer Support Hours}}. They can assist you with any questions or issues you may have. Please feel free to share any experiences, doubts, or queries you might have, and I'll do my best to assist you further.  time 2024-09-25 20:29:41.742441
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:30:00.357061
+You: whats the time
+Nova: Happy to hear from you! I truly understand that you would like assistance in speaking to our customer support team. Our team is readily available to help address your concerns and provide the necessary support. To connect with a representative, you can reach out to them during our customer support hours at {{Customer Support Hours}}. They can assist you with any questions or issues you may have. Please feel free to share any experiences, doubts, or queries you might have, and I'll do my best to assist you further.  time 2024-09-25 20:30:00.357061
+You: what is the time 
+Nova: Happy to hear from you! I truly understand that you would like assistance in speaking to our customer support team. Our team is readily available to help address your concerns and provide the necessary support. To connect with a representative, you can reach out to them during our customer support hours at {{Customer Support Hours}}. They can assist you with any questions or issues you may have. Please feel free to share any experiences, doubts, or queries you might have, and I'll do my best to assist you further.  time 2024-09-25 20:30:00.357061
+
+You: what is the time
+Nova:  The current time is 2024-09-25 20:31:05.599759  time 2024-09-25 20:31:05.599759
+
+You: what is the time
+Nova:  The current time is 2024-09-25 20:31:05.599759  time 2024-09-25 20:31:34.407528
+You: do you cancel my order
+Nova: I've understood you have a question regarding canceling order {{Order Number}}, and I'm here to provide you with the information you need. Please go ahead and ask your question, and I'll do my best to assist you.  time 2024-09-25 20:31:34.407528
+
+You: hi
+Nova: Hi! How can I help you today?  time 2024-09-25 20:37:48.499966
+
+You: hii
+Nova: Hi! How can I help you today?  time 2024-09-25 20:42:03.030194
+
